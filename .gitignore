@@ -23,6 +23,8 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+obj/
+Debug/
 
 # Visual Studio 2015 cache/options directory
 .vs/
@@ -287,3 +289,9 @@ __pycache__/
 *.odx.cs
 *.xsd.cs
 ChatClientCS/obj/Debug/ChatClientCS.csproj.FileListAbsolute.txt
+ChatClientCS/obj/Debug/App.g.i.cs
+ChatClientCS/obj/Debug/App.g.i.cs
+ChatClientCS/obj/Debug/GeneratedInternalTypeHelper.g.i.cs
+ChatClientVB/obj/Debug/Application.g.i.vb
+ChatClientVB/obj/Debug/GeneratedInternalTypeHelper.g.i.vb
+ChatClientCS/obj/Debug/App.g.i.cs
